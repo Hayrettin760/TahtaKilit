@@ -1,0 +1,24 @@
+{
+  "short_name": "TahtaKilit",
+  "name": "TahtaKilit Öğretmen Mobil Uygulaması",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0F172A",
+  "theme_color": "#2563EB",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Akıllı Tahta Şifreli Kilit ve Yönetim Mobil Uygulaması"
+}
